@@ -16,7 +16,7 @@ html{
     min-height: 100vh;
     display: grid;
     place-items: center;
-    background-color: hsla(0, 81%, 86%, 0.2);
+    background-color:  hsl(206, 92%, 94%);
 
 }
 
